@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Bobby, a newbie.
+I’m currently learning to code and to work in teams or to build projects on my own.
 
 <!--
 **bopcho/bopcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
