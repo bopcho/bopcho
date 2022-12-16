@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Bobby, a newbie here.
-I’m currently learning React
+I’m currently learning React.
 Get in touch - https://www.linkedin.com/in/boyan-/
 <!--
 **bopcho/bopcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
