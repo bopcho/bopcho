@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Bobby, a junior web developer with one year of expirience.
+I'm Bobby, a junior web developer with one and a half years of coding expirience.
 
 - 🔭 I’m currently working mostly in Output Managment and Spooling
 - 🌱 I’m currently learning React and TypeScript
