@@ -5,7 +5,5 @@ I'm Bobby, a junior web developer with one and a half years of coding expirience
 - 🌱 I’m currently learning React and TypeScript
 - 👯 I’m looking to collaborate on cool projects
 - 🤔 I’m looking for a new job
-- 📫 Get in touch https://www.linkedin.com/in/boyan-/
-- 💬 Ask me about my code
-- 😄 Pronouns: code
-- ⚡ Fun fact: code!
+- 📫 How to reach me ivanoffboyan@gmail.com
+- 💬 Or chat with me on LinkedIn https://www.linkedin.com/in/boyan-/
